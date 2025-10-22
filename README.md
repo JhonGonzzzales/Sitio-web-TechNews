@@ -1,2 +1,4 @@
 # Sitio-web-TechNews
-Ejemplo de un sitio web sencillo 
+## Vista previa
+
+![Página principal](img/screenshot.png)
